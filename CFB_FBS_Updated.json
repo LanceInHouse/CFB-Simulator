@@ -1153,6 +1153,19 @@
           "region": "Northeast",
           "secondary": "#000E54",
           "tertiary": "#FFFFFF"
+        },
+        {
+          "abbreviation": "ND",
+          "defenseScheme": "4-2-5",
+          "logoURL": "https://content.sportslogos.net/logos/33/789/full/notre_dame_fighting_irish_logo_primary_20155907.png",
+          "mascot": "Fighting Irish",
+          "name": "Notre Dame",
+          "offenseScheme": "pro",
+          "prestige": 94,
+          "primary": "#AE9142",
+          "region": "Midwest",
+          "secondary": "#0C2340",
+          "tertiary": "#0A843D"
         }
       ],
       "tier": "Power"
@@ -1998,7 +2011,7 @@
         {
           "abbreviation": "JVST",
           "defenseScheme": "4-3",
-          "logoURL": "https://content.sportslogos.net/logos/32/716/full/jacksonville_state_gamecocks_logo_primary_20026801.png",
+          "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/55.png",
           "mascot": "Gamecocks",
           "name": "Jacksonville State",
           "offenseScheme": "spread",
@@ -2124,6 +2137,19 @@
           "region": "Southwest",
           "secondary": "#FFFFFF",
           "tertiary": "#004853"
+        },
+        {
+          "abbreviation": "CONN",
+          "defenseScheme": "4-2-5",
+          "logoURL": "https://content.sportslogos.net/logos/35/884/full/uconn_huskies_logo_primary_20139813.png",
+          "mascot": "Huskies",
+          "name": "UCONN",
+          "offenseScheme": "pro",
+          "prestige": 52,
+          "primary": "#000E2F",
+          "region": "Northeast",
+          "secondary": "#EB1B2B",
+          "tertiary": "#CCCCCC"
         }
       ],
       "tier": "Non-Power"
@@ -2466,7 +2492,7 @@
         {
           "abbreviation": "ULL",
           "defenseScheme": "4-3",
-          "logoURL": "https://content.sportslogos.net/logos/32/732/full/louisiana_ragin_cajuns_logo_primary_2018_sportslogosnet-3968.png",
+          "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
           "mascot": "Ragin' Cajuns",
           "name": "Louisiana-Lafayette",
           "offenseScheme": "spread",
@@ -2492,7 +2518,7 @@
         {
           "abbreviation": "USA",
           "defenseScheme": "4-2-5",
-          "logoURL": "https://content.sportslogos.net/logos/34/833/full/south-alabama-jaguars-logo-primary-2018-83323002018.png",
+          "logoURL": "https://a.espncdn.com/i/teamlogos/ncaa/500/6.png",
           "mascot": "Jaguars",
           "name": "South Alabama",
           "offenseScheme": "spread",
@@ -2659,34 +2685,7 @@
       "tier": "Non-Power"
     }
   ],
-  "independents": [
-    {
-      "abbreviation": "ND",
-      "defenseScheme": "4-2-5",
-      "logoURL": "https://content.sportslogos.net/logos/33/789/full/notre_dame_fighting_irish_logo_primary_20155907.png",
-      "mascot": "Fighting Irish",
-      "name": "Notre Dame",
-      "offenseScheme": "pro",
-      "prestige": 94,
-      "primary": "#AE9142",
-      "region": "Midwest",
-      "secondary": "#0C2340",
-      "tertiary": "#0A843D"
-    },
-    {
-      "abbreviation": "CONN",
-      "defenseScheme": "4-2-5",
-      "logoURL": "https://content.sportslogos.net/logos/35/884/full/uconn_huskies_logo_primary_20139813.png",
-      "mascot": "Huskies",
-      "name": "UCONN",
-      "offenseScheme": "pro",
-      "prestige": 52,
-      "primary": "#000E2F",
-      "region": "Northeast",
-      "secondary": "#EB1B2B",
-      "tertiary": "#CCCCCC"
-    }
-  ],
+  "independents": [],
   "nationalChampionshipLogoURL": "https://i.imgur.com/C75tlWf.png",
   "ny6Bowls": [
     {
